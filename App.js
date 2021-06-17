@@ -7,6 +7,8 @@ import { createStackNavigator } from '@react-navigation/stack';
 import {NavigationContainer} from '@react-navigation/native'
 import 'react-native-gesture-handler'
 
+//Will add the images later coz i need to go to sleep :P
+
 const Stack = createStackNavigator()
 
 export default function App() {
